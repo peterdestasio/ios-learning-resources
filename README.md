@@ -1,5 +1,5 @@
-# ios-learning-resources
-
+# iOS Learning resources
+A curated list to learn iOS Development
 
 ## Part 1
 
