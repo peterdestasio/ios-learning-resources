@@ -26,4 +26,4 @@ A curated list of information to learn iOS Development
 - [Provisioning profile crash course Part 1](https://petermolnar.dev/provisioning-profile-crash-course-part-1/) 
 - [Provisioning profile crash course Part 2](https://petermolnar.dev/provisioning-profile-crash-course-part-2/) 
 - [Provisioning profile crash course Part 3](https://petermolnar.dev/provisioning-profile-crash-course-part-3/) 
-- [Provisioning profile crash course Part ](https://petermolnar.dev/the-provisioning-profile-crash-course-part-4/)
+- [Provisioning profile crash course Part 4](https://petermolnar.dev/the-provisioning-profile-crash-course-part-4/)
