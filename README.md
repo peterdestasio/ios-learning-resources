@@ -24,3 +24,5 @@ A curated list of information to learn iOS Development
 - [Symbolic breakpoints and watchpoints](https://www.bignerdranch.com/blog/xcode-breakpoint-wizardry/)
 - [Exception breakpoints](http://blog.manbolo.com/2012/01/23/xcode-tips-1-break-on-exceptions)
 
+## Deployment
+- [Provisioning profile crash course] (https://petermolnar.dev/provisioning-profile-crash-course-part-1/) (https://petermolnar.dev/provisioning-profile-crash-course-part-2/) (https://petermolnar.dev/provisioning-profile-crash-course-part-3/) (https://petermolnar.dev/the-provisioning-profile-crash-course-part-4/)
