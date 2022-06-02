@@ -9,7 +9,7 @@ A curated list of information to learn iOS Development
 
 
 ## UI
-- [Templates]https://github.com/bigmountainstudio/Xcode-Templates
+- [Templates](https://github.com/bigmountainstudio/Xcode-Templates)
 
 ## Learning path 2 - Intermediate
 - Tbd
