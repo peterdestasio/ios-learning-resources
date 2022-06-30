@@ -12,7 +12,7 @@ A curated list of information to learn iOS Development
 - [Templates](https://github.com/bigmountainstudio/Xcode-Templates)
 
 ## Learning path 2 - Key Concepts
--[Delegation](https://medium.com/@nimjea/delegation-pattern-in-swift-4-2-f6aca61f4bf5)
+- [Delegation](https://medium.com/@nimjea/delegation-pattern-in-swift-4-2-f6aca61f4bf5)
 
 ## Learning path 3 - Hero
 - Tbd
