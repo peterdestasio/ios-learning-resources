@@ -15,7 +15,7 @@ A curated list of information to learn iOS Development
 - [Delegation](https://medium.com/@nimjea/delegation-pattern-in-swift-4-2-f6aca61f4bf5)
 
 ## Learning path 3 - Hero
-- Tbd
+- [Automatic Reference Counting]( https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html#:~:text=Swift%20uses%20Automatic%20Reference%20Counting,think%20about%20memory%20management%20yourself)
 
 ## Architecture
 - [Clean Swift iOS Architecture](http://clean-swift.com/clean-swift-ios-architecture/)
