@@ -6,7 +6,7 @@ A curated list of information to learn iOS Development
 - [Swift Official Website](https://docs.swift.org/swift-book/)
 - [Quick Guide](https://learnxinyminutes.com/docs/swift/)
 - [Understandig Swift](https://github.com/codepath/ios_guides/wiki/Understanding-Swift)
-- [Value Type vs ReferenceType](https://www.codementor.io/blog/value-vs-reference-6fm8x0syje#:~:text=In%20Swift%20there%20are%20two,type%20is%20usually%20a%20class%20)
+- [Value Type vs Reference Types](https://www.codementor.io/blog/value-vs-reference-6fm8x0syje#:~:text=In%20Swift%20there%20are%20two,type%20is%20usually%20a%20class%20)
 
 
 ## UI
