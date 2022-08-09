@@ -11,6 +11,7 @@ A curated list of information to learn iOS Development
 
 ## UI
 - [Templates](https://github.com/bigmountainstudio/Xcode-Templates)
+- [UI Kit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)
 
 ## Learning path 2 - Key Concepts
 - [Delegation](https://medium.com/@nimjea/delegation-pattern-in-swift-4-2-f6aca61f4bf5)
