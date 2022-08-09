@@ -6,12 +6,14 @@ A curated list of information to learn iOS Development
 - [Swift Official Website](https://docs.swift.org/swift-book/)
 - [Quick Guide](https://learnxinyminutes.com/docs/swift/)
 - [Understandig Swift](https://github.com/codepath/ios_guides/wiki/Understanding-Swift)
+- [Value Type vs ReferenceType](https://www.codementor.io/blog/value-vs-reference-6fm8x0syje#:~:text=In%20Swift%20there%20are%20two,type%20is%20usually%20a%20class%20)
 
 
 ## UI
 - [Templates](https://github.com/bigmountainstudio/Xcode-Templates)
 
 ## Learning path 2 - Key Concepts
+- [Delegation](https://medium.com/@nimjea/delegation-pattern-in-swift-4-2-f6aca61f4bf5)
 - [Delegation](https://medium.com/@nimjea/delegation-pattern-in-swift-4-2-f6aca61f4bf5)
 
 ## Learning path 3 - Hero
