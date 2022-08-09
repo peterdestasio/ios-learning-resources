@@ -7,6 +7,8 @@ A curated list of information to learn iOS Development
 - [Quick Guide](https://learnxinyminutes.com/docs/swift/)
 - [Understandig Swift](https://github.com/codepath/ios_guides/wiki/Understanding-Swift)
 - [Value Type vs Reference Types](https://www.codementor.io/blog/value-vs-reference-6fm8x0syje#:~:text=In%20Swift%20there%20are%20two,type%20is%20usually%20a%20class%20)
+- [Optionals](https://www.freecodecamp.org/news/optional-types-in-swift/)
+- [Guard](https://codewithchris.com/swift-guard/)
 
 
 ## UI
@@ -16,6 +18,7 @@ A curated list of information to learn iOS Development
 ## Learning path 2 - Key Concepts
 - [Delegation](https://medium.com/@nimjea/delegation-pattern-in-swift-4-2-f6aca61f4bf5)
 - [Data Binding](https://fitzafful.medium.com/data-binding-in-mvvm-on-ios-714eb15e3913)
+- [Closures](https://www.swiftbysundell.com/articles/swifts-closure-capturing-mechanics/)
 
 ## Learning path 3 - Hero
 - [Automatic Reference Counting]( https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html#:~:text=Swift%20uses%20Automatic%20Reference%20Counting,think%20about%20memory%20management%20yourself)
