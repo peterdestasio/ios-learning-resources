@@ -19,6 +19,7 @@ A curated list of information to learn iOS Development
 - [Delegation](https://medium.com/@nimjea/delegation-pattern-in-swift-4-2-f6aca61f4bf5)
 - [Data Binding](https://fitzafful.medium.com/data-binding-in-mvvm-on-ios-714eb15e3913)
 - [Closures](https://www.swiftbysundell.com/articles/swifts-closure-capturing-mechanics/)
+- [Threading] (https://betterprogramming.pub/threading-in-swift-simply-explained-5c8dd680b9b2)
 
 ## Learning path 3 - Hero
 - [Automatic Reference Counting]( https://docs.swift.org/swift-book/LanguageGuide/AutomaticReferenceCounting.html#:~:text=Swift%20uses%20Automatic%20Reference%20Counting,think%20about%20memory%20management%20yourself)
