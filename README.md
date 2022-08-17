@@ -28,6 +28,7 @@ A curated list of information to learn iOS Development
 - [Clean Swift iOS Architecture](http://clean-swift.com/clean-swift-ios-architecture/)
 - [Clean VIP](https://medium.com/@mlukacs_42903/part-1-what-is-clean-swift-vip-a-brief-overview-a43d4d66e664#:~:text=The%20Interactor,-The%20role%20of&text=This%20is%20the%20brain%20of,raw%20data%20to%20the%20presenter.)
 - [Weak and Unowned](https://krakendev.io/blog/weak-and-unowned-references-in-swift)
+- [Networking and Dipendency Injection](https://medium.com/@mlukacs_42903/part-2-network-dependency-injection-c7c983a28bbf)
 
 ### Debugging
 - [Symbolic breakpoints and watchpoints](https://www.bignerdranch.com/blog/xcode-breakpoint-wizardry/)
